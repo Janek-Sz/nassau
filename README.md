@@ -1,4 +1,7 @@
 # my-mud
 
-The MUD game I would like to work on, based on RanvierMUD engine.
-With some master plan and great gameplay.
+The [MUD](https://en.wikipedia.org/wiki/MUD) game I would like to work on, based on [RanvierMUD](https://github.com/RanvierMUD/ranviermud) engine. With some master plan and great gameplay.
+
+## What's here.
+
+In this repository are only files from Ranvier's GitHub, that I changed somehow. So installing Ranvier and then copy-pasting my files to the main folder **should** give the thing that I have.
