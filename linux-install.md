@@ -15,3 +15,5 @@ Step 4
 Remove the "#" sign at the start of the PasswordAuthentication label, then replace "Yes" with "No" so that the line reads: PasswordAuthentication no
 
 Save the file and restart the server.
+
+.
