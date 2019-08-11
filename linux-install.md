@@ -3,7 +3,6 @@ Here are things I did on my Virtual Box. Saved in case I would need to install i
 #### Things to install on the start:
 ```
 sudo apt install git
-sudo apt install npm
 ```
 
 .
