@@ -1,5 +1,5 @@
 Login event flow
-==
+```
                       intro (MOTD)
                         |
       (new account) __login__  (existing account)
@@ -17,3 +17,4 @@ Login event flow
                                      |
                                    commands
              (command prompt, all player input after login goes through this event)
+```
