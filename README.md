@@ -1,4 +1,4 @@
-# my-mud
+# Nassau
 
 The [MUD](https://en.wikipedia.org/wiki/MUD) game I would like to work on, based on [RanvierMUD](https://github.com/RanvierMUD/ranviermud) engine. With some master plan and great gameplay.
 
