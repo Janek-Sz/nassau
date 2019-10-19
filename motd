@@ -1,0 +1,27 @@
+
+<white>                            Greetings and welcome to
+
+<yellow>                ,--.  ,--.
+<yellow>                |  ,'.|  | ,--,--. ,---.  ,---.  ,--,--.,--.,--.
+<yellow>                |  |' '  |' ,-.  |(  .-' (  .-' ' ,-.  ||  ||  |
+<yellow>                |  | `   |\ '-'  |.-'  `).-'  `)\ '-'  |'  ''  '
+<yellow>                `--'  `--' `--`--'`----' `----'  `--`--' `----'
+
+
+<white>        the MUD game based on Ranvier MUD engine. If you want to know more,
+<white>                please visit https://github.com/Janek-Sz/nassau
+
+<white>This is two language game, you will be able to choose between ENGLISH and POLISH
+<white>                            after creating an account.
+
+<white> To login to your account or create it, if you don't have one, please give your
+<white> account name as a name. To login as an existing character, just give its name.
+<red>WARNING: This is pre-alpha of neolith-alpha of the game, basicly clear engine as
+<red>   given. There will be unexpected downs of server as well as some account and
+<red>                         character deletion might occur.
+
+<white>Aby zalogowac sie na istniejece konto lub stworzyc nowe, jesli go nie masz, podaj
+<white> nazwe konta jako imie. Zeby zalogowac sie na istniejaca postac, podaj jej imie.
+<red>   UWAGA: To wersja pre-alpha wersji neolit-alpha, na dobra sprawe sam silnik
+<red>    w takiej formie, w jakiej jest na stronie. Serwer bedzie niespodziewanie
+<red>     wylaczany, moze sie tez zdarzyc, ze usuniete zostana konta i postaci.
