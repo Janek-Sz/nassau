@@ -13,4 +13,6 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - The way to start something on reboot: https://askubuntu.com/questions/290099/how-to-run-a-script-during-boot-as-root
 - SSH tutorial, might need it later: https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/
 - And is about copying whole folders, need it for backup stuff: https://www.lifewire.com/copy-files-using-linux-cp-command-4022366
+- Some git tutorial: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
 .
