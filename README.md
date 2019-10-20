@@ -12,5 +12,5 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - I was also suggested this JS tutorial: https://www.codecademy.com/learn/introduction-to-javascript
 - The way to start something on reboot: https://askubuntu.com/questions/290099/how-to-run-a-script-during-boot-as-root
 - SSH tutorial, might need it later: https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/
-
+- And is about copying whole folders, need it for backup stuff: https://www.lifewire.com/copy-files-using-linux-cp-command-4022366
 .
