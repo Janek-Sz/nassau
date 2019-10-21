@@ -16,5 +16,5 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - Some git tutorial: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 - More git tutorial: https://kbroman.org/github_tutorial/pages/init.html
 - Even more git tutorial: https://git-scm.com/book/pl/v1/Pierwsze-kroki-Podstawy-Git
-
+- Some simple website creation?: https://www.mkdocs.org/
 .
