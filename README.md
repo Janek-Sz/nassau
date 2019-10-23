@@ -1,4 +1,4 @@
-# Nassau
+<p align="center"><img class="readme-logo" src="https://github.com/Janek-Sz/nassau/blob/master/nassau-logo.png"></p>
 
 The [MUD](https://en.wikipedia.org/wiki/MUD) game I would like to work on, based on [RanvierMUD](https://github.com/RanvierMUD/ranviermud) engine. With some master plan and great gameplay.
 
