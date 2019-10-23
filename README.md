@@ -1,5 +1,6 @@
 <p align="center"><img class="readme-logo" src="https://github.com/Janek-Sz/nassau/blob/master/nassau-logo.png"></p>
 
+---
 The [MUD](https://en.wikipedia.org/wiki/MUD) game I would like to work on, based on [RanvierMUD](https://github.com/RanvierMUD/ranviermud) engine. With some master plan and great gameplay.
 
 ## What's here.
@@ -19,4 +20,5 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - Some simple website creation?: https://www.mkdocs.org/
 - How to make Ubuntu terminal-only: https://askubuntu.com/questions/378046/how-to-run-ubuntu-xubuntu-in-a-complete-non-gui-mode
 - vsftpd tutorial: https://morfikov.github.io/post/konfiguracja-vsftpd-w-debianie/
+
 .
