@@ -20,5 +20,5 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - Some simple website creation?: https://www.mkdocs.org/
 - How to make Ubuntu terminal-only: https://askubuntu.com/questions/378046/how-to-run-ubuntu-xubuntu-in-a-complete-non-gui-mode
 - vsftpd tutorial: https://morfikov.github.io/post/konfiguracja-vsftpd-w-debianie/
-
+- this is what I needed all the time?: https://trycode.wordpress.com/2009/11/08/stawiamy-wlasny-serwer-ftp/
 .
