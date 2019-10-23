@@ -18,4 +18,5 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - Even more git tutorial: https://git-scm.com/book/pl/v1/Pierwsze-kroki-Podstawy-Git
 - Some simple website creation?: https://www.mkdocs.org/
 - How to make Ubuntu terminal-only: https://askubuntu.com/questions/378046/how-to-run-ubuntu-xubuntu-in-a-complete-non-gui-mode
+- vsftpd tutorial: https://morfikov.github.io/post/konfiguracja-vsftpd-w-debianie/
 .
