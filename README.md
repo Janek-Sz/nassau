@@ -21,4 +21,6 @@ In this repository are only files from Ranvier's GitHub, that I changed somehow.
 - How to make Ubuntu terminal-only: https://askubuntu.com/questions/1056363/how-to-disable-gui-on-boot-in-18-04-bionic-beaver/1056371
 - vsftpd tutorial: https://morfikov.github.io/post/konfiguracja-vsftpd-w-debianie/
 - this is what I needed all the time?: https://trycode.wordpress.com/2009/11/08/stawiamy-wlasny-serwer-ftp/
+- adding screen resolutions to linux: http://ubuntuhandbook.org/index.php/2017/04/custom-screen-resolution-ubuntu-desktop/
+
 .
